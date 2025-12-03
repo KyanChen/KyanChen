@@ -28,7 +28,7 @@ Google Scholar: [Link](https://scholar.google.com/citations?user=5RF4ia8AAAAJ)
 - **[2024.11]** Paper **STT** identified as $\color{red}{\textbf{ESI Highly Cited Paper}}$
 - **[2024.10]** Research on [Adversarial Attack](https://ieeexplore.ieee.org/abstract/document/10716799) accepted to **IEEE TPAMI** 🔥
 - **[2024.07]** Paper **RSMamba** listed as a **IEEE GRSL** $\color{red}{\textbf{Popular Article}}$
-- **[2024.07]** Paper **RSPrompter** identified as $\color{red}{\textbf{ESI Hot \& Highly Cited Paper}}$
+- **[2024.07]** Paper **RSPrompter** identified as $\color{red}{\textbf{ESI Hot \\& Highly Cited Paper}}$
 - **[2024.05]** Paper **RSPrompter** listed as a **IEEE TGRS** $\color{red}{\textbf{Popular Article}}$
 - **[2024.05]** Led the inaugural **NSFC** Ph.D. Student Project ($\color{red}{\textbf{Principal Investigator}}$) 🚩
 
