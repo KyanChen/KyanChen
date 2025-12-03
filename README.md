@@ -2,10 +2,9 @@
 
 ## 👋 About Me
 
-[//]: # (I am an incoming Research Fellow at the [College of Computing & Data Science]&#40;https://www.ntu.edu.sg/computing&#41;, [Nanyang Technological University &#40;NTU&#41;]&#40;https://www.ntu.edu.sg/&#41;. )
-I received my Ph.D. (Nov. 2025), M.S. (Jan. 2022), and B.S. (Jul. 2019) degrees all from the [LEVIR lab](http://levir.buaa.edu.cn/) at [Beihang University](https://www.buaa.edu.cn/), advised by Prof. [Zhenwei Shi](http://levir.buaa.edu.cn/) and Prof. [Zhengxia Zou](https://zhengxiazou.github.io/).
-My research involves **deep learning**, **computer vision**, **remote sensing image processing**, and **multimodal learning**. My biography is [here](https://kyanchen.github.io/biography/).
+I obtained my Ph.D., M.S., and B.S. degrees from **Beihang University** in 2025, 2022, and 2019, respectively, under the supervision of [Prof. Zhenwei Shi](https://scholar.google.com/citations?user=kNhFWQIAAAAJ) and [Prof. Zhengxia Zou](https://scholar.google.com/citations?user=DzwoyZsAAAAJ).
 
+My research centers on **Computer Vision** and **Remote Sensing**, with a particular focus on **Foundation Models**, **Multimodal Learning**, and **AI4Earth**.
 
 ## 📎 Homepages
 Personal Pages: https://kyanchen.github.io (updated recently🔥)
@@ -13,26 +12,25 @@ Personal Pages: https://kyanchen.github.io (updated recently🔥)
 Google Scholar: https://scholar.google.com/citations?user=5RF4ia8AAAAJ
 
 ## 📰 News
-<li><strong>[Dec. 2024]</strong> 5 papers are accepted by <strong style="color: red;">TGRS</strong> in 2025.</li>
-<li><strong>[Nov. 2025]</strong> Graduated with a <strong style="color: red;">Ph.D. in Engineering</strong> from Beihang University. 🎓🎉</li>
-<li><strong>[Oct. 2025]</strong> Our <a href="https://dl.acm.org/doi/abs/10.1145/3746027.3756881">Open-CD: Change Detection technique report</a> is accepted by <strong style="color: red;">ACM MM</strong>.</li>
-<li><strong>[Sep. 2025]</strong> Our <a href="https://ieeexplore.ieee.org/abstract/document/11159545">Remote Sensing Spatiotemporal Vision–Language Models Survey</a> is accepted by <strong style="color: red;">GRSM</strong>.</li>
-<li><strong>[May 2025]</strong> Our <a href="https://ieeexplore.ieee.org/abstract/document/10988859/">Text2Earth</a> is accepted by <strong style="color: red;">GRSM</strong>.</li>
-<li><strong>[May 2025]</strong> Received the prestigious <strong style="color: red;">May Fourth Youth Medal</strong> (五四青年奖章), Beihang University's highest honor for youth achievement.</li>
-<li><strong>[Apr. 2025]</strong> My <a href="https://scholar.google.com/citations?user=5RF4ia8AAAAJ">google scholar</a> citations have exceeded <strong style="color: red;">5000</strong>! 🎉🎉🎉</li>
-<li><strong>[Jan. 2025]</strong> 1 paper is accepted by <strong style="color: red;">TMM</strong>.</li>
-<li><strong>[Jan. 2025]</strong> FunSR and RSMamba becomes <strong style="color: red;">ESI Highly Cited Papers</strong>.</li>
-<li><strong>[Nov. 2024]</strong> Received the prestigious <strong style="color: red;">Shenyuan Medal</strong> (沈元奖章), Beihang University's highest honor for student achievement.</li>
-<li><strong>[Nov. 2024]</strong> Awarded the <strong style="color: red;">Baosteel Scholarship Special Prize</strong>, given to ten graduate students nationwide.</li>
-<li><strong>[Nov. 2024]</strong> STT becomes an <strong style="color: red;">ESI Highly Cited Paper</strong>.</li>
-<li><strong>[Jul. 2024]</strong> RSMamba becomes a <strong style="color: red;">Popular Article</strong> of GRSL.</li>
-<li><strong>[Jul. 2024]</strong> RSPrompter becomes an <strong style="color: red;">ESI Highly Cited Paper and a Hot Paper</strong>.</li>
-<li><strong>[May 2024]</strong> RSPrompter becomes a <strong style="color: red;">Popular Article</strong> of TGRS.</li>
-<li><strong>[May 2024]</strong> Funded by NSFC on Youth Basic Research Project (Ph.D. Student) 获首批国家自然科学基金青年学生基础研究项目(博士研究生)资助.</li>
-<li><strong>[Dec. 2024]</strong> 7 papers are accepted by <strong style="color: red;">TGRS</strong> in 2024.</li>
-<li><strong>[Oct. 2024]</strong> Our <a href="https://ieeexplore.ieee.org/abstract/document/10716799">adversarial attack model</a> is accepted by <strong style="color: red;">TPAMI</strong>.</li>
-
+<li><strong>[2025.12]</strong> 5 papers accepted to **IEEE TGRS** in 2025</li>
+<li><strong>[2025.11]</strong> Received **Ph.D. degree** from Beihang University</li>
+<li><strong>[2025.10]</strong> Technical report [Open-CD (Change Detection)](https://dl.acm.org/doi/abs/10.1145/3746027.3756881) accepted to **ACM MM**</li>
+<li><strong>[2025.09]</strong> [Survey on Remote Sensing VLMs](https://ieeexplore.ieee.org/abstract/document/11159545) accepted to **IEEE GRSM**</li>
+<li><strong>[2025.06]</strong> Invited speaker at **VALSE 2025 Student Forum** (<span style="color: red;">selected as 1 of 8 nationwide</span>)</li>
+<li><strong>[2025.05]</strong> Paper [Text2Earth](https://ieeexplore.ieee.org/abstract/document/10988859/) accepted to **IEEE GRSM**</li>
+<li><strong>[2025.05]</strong> Awarded **Beihang May Fourth Medal** (<span style="color: red;">highest honor for youth</span>)</li>
+<li><strong>[2025.04]</strong> [Google Scholar](https://scholar.google.com/citations?user=5RF4ia8AAAAJ) citations surpassed <span style="color: red;">5,000</span></li>
+<li><strong>[2025.01]</strong> 1 paper accepted to **IEEE TMM**</li>
+<li><strong>[2025.01]</strong> Papers **FunSR** & **RSMamba** identified as <span style="color: red;">ESI Highly Cited Papers</span></li>
+<li><strong>[2024.12]</strong> 7 papers accepted to **IEEE TGRS** in 2024</li>
+<li><strong>[2024.11]</strong> Awarded **Shen Yuan Medal** (<span style="color: red;">highest honor for Beihang students</span>)</li>
+<li><strong>[2024.11]</strong> Received **Baosteel Education Special Award** (<span style="color: red;">Top 10 graduate students nationwide</span>)</li>
+<li><strong>[2024.11]</strong> Paper **STT** identified as <span style="color: red;">ESI Highly Cited Paper</span></li>
+<li><strong>[2024.10]</strong> Research on [Adversarial Attack](https://ieeexplore.ieee.org/abstract/document/10716799) accepted to **IEEE TPAMI**</li>
+<li><strong>[2024.07]</strong> Paper **RSMamba** listed as a **IEEE GRSL** <span style="color: red;">Popular Article</span></li>
+<li><strong>[2024.07]</strong> Paper **RSPrompter** identified as <span style="color: red;">ESI Hot & Highly Cited Paper</span></li>
+<li><strong>[2024.05]</strong> Paper **RSPrompter** listed as a **IEEE TGRS** <span style="color: red;">Popular Article</span></li>
+<li><strong>[2024.05]</strong> Led the inaugural **NSFC** Ph.D. Student Project (<span style="color: red;">Principal Investigator</span>)</li>
 
 ## 📫 Contact Me
 Email: kychen@buaa.edu.cn
-
