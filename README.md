@@ -21,14 +21,14 @@ Google Scholar: [Link](https://scholar.google.com/citations?user=5RF4ia8AAAAJ)
 - **[2025.05]** Awarded **Beihang May Fourth Medal** ($\color{red}{\textbf{highest honor for youth}}$) 🏅
 - **[2025.04]** [Google Scholar](https://scholar.google.com/citations?user=5RF4ia8AAAAJ) citations surpassed $\color{red}{\textbf{5,000}}$ 🚀
 - **[2025.01]** 1 paper accepted to **IEEE TMM**
-- **[2025.01]** Papers **FunSR** \\& **RSMamba** identified as $\color{red}{\textbf{ESI Highly Cited Papers}}$
+- **[2025.01]** Papers **FunSR** \& **RSMamba** identified as $\color{red}{\textbf{ESI Highly Cited Papers}}$
 - **[2024.12]** 7 papers accepted to **IEEE TGRS** in 2024
 - **[2024.11]** Awarded **Shen Yuan Medal** ($\color{red}{\textbf{highest honor for Beihang students}}$) 🏆
 - **[2024.11]** Received **Baosteel Education Special Award** ($\color{red}{\textbf{Top 10 graduate students nationwide}}$) 🥇
 - **[2024.11]** Paper **STT** identified as $\color{red}{\textbf{ESI Highly Cited Paper}}$
 - **[2024.10]** Research on [Adversarial Attack](https://ieeexplore.ieee.org/abstract/document/10716799) accepted to **IEEE TPAMI** 🔥
 - **[2024.07]** Paper **RSMamba** listed as a **IEEE GRSL** $\color{red}{\textbf{Popular Article}}$
-- **[2024.07]** Paper **RSPrompter** identified as $\color{red}{\textbf{ESI Hot \\& Highly Cited Paper}}$
+- **[2024.07]** Paper **RSPrompter** identified as $\color{red}{\textbf{ESI Hot \& Highly Cited Paper}}$
 - **[2024.05]** Paper **RSPrompter** listed as a **IEEE TGRS** $\color{red}{\textbf{Popular Article}}$
 - **[2024.05]** Led the inaugural **NSFC** Ph.D. Student Project ($\color{red}{\textbf{Principal Investigator}}$) 🚩
 
