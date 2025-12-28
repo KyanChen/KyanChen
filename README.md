@@ -12,7 +12,7 @@ Personal Pages: [https://kyanchen.github.io](https://kyanchen.github.io) (update
 Google Scholar: [Link](https://scholar.google.com/citations?user=5RF4ia8AAAAJ)
 
 ## 📰 News
-- **[2025.12]** 5 papers accepted to **IEEE TGRS** in 2025
+- **[2025.12]** 7 papers accepted to **IEEE TGRS** in 2025
 - **[2025.11]** Received **Ph.D. degree** from Beihang University 🎓
 - **[2025.10]** Technical report [Open-CD (Change Detection)](https://dl.acm.org/doi/abs/10.1145/3746027.3756881) accepted to **ACM MM** ✨
 - **[2025.09]** [Survey on Remote Sensing VLMs](https://ieeexplore.ieee.org/abstract/document/11159545) accepted to **IEEE GRSM**
