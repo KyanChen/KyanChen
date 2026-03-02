@@ -36,4 +36,4 @@ Google Scholar: [Link](https://scholar.google.com/citations?user=5RF4ia8AAAAJ)
 - **[2024.05]** Led the inaugural **NSFC** Ph.D. Student Project ($\color{red}{\textbf{Principal Investigator}}$) 🚩
 
 ## 📫 Contact Me
-Email: kychen@buaa.edu.cn
+Email: keyan.chen@ntu.edu.sg
