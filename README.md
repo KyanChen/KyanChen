@@ -2,6 +2,7 @@
 
 ## 👋 About Me
 
+I am currently a **Research Fellow** at the College of Computing and Data Science (CCDS), **Nanyang Technological University (NTU)**, working with [Prof. Shijian Lu](https://scholar.google.com/citations?user=uYmK-A0AAAAJ).
 
 I obtained my Ph.D., M.S., and B.S. degrees from **Beihang University** in 2025, 2022, and 2019, respectively, under the supervision of [Prof. Zhenwei Shi](https://scholar.google.com/citations?user=kNhFWQIAAAAJ) and [Prof. Zhengxia Zou](https://scholar.google.com/citations?user=DzwoyZsAAAAJ).
 
