@@ -2,11 +2,13 @@
 
 ## 👋 About Me
 
-I am currently a **Research Fellow** at the College of Computing and Data Science (CCDS), **Nanyang Technological University (NTU)**, working with [Prof. Shijian Lu](https://scholar.google.com/citations?user=uYmK-A0AAAAJ).
+I am currently a **Research Fellow** at the College of Computing and Data Science (CCDS), **Nanyang Technological University (NTU)**, working with [Prof. Shijian Lu](https://scholar.google.com/citations?user=uYmK-A0AAAAJ). 
 
 I obtained my Ph.D., M.S., and B.S. degrees from **Beihang University** in 2025, 2022, and 2019, respectively, under the supervision of [Prof. Zhenwei Shi](https://scholar.google.com/citations?user=kNhFWQIAAAAJ) and [Prof. Zhengxia Zou](https://scholar.google.com/citations?user=DzwoyZsAAAAJ).
 
-My research centers on **Computer Vision** and **Remote Sensing**, with a particular focus on **Foundation Models**, **Multimodal Learning**, and **AI4Earth**.
+My research focuses on **Computer Vision** and **Remote Sensing**, with a particular emphasis on **Foundation Models**, **Multimodal Learning**, and **AI4Earth**. To date, I have published over 50 papers in top-tier venues (e.g., *Proc. IEEE, TPAMI, CVPR, TGRS*), including several **ESI Hot/Highly Cited Papers**, accumulating over **8,000 citations** on [Google Scholar](https://scholar.google.com/citations?user=5RF4ia8AAAAJ).
+
+I am highly motivated to foster academic collaborations and industrial synergy. If you are interested in my research or see potential for collaboration, please feel free to contact me.
 
 ## 📎 Homepages
 Personal Pages: [https://kyanchen.github.io](https://kyanchen.github.io) (updated recently🔥)
