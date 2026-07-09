@@ -13,12 +13,14 @@ Personal Pages: [https://kyanchen.github.io](https://kyanchen.github.io) (update
 Google Scholar: [Link](https://scholar.google.com/citations?user=5RF4ia8AAAAJ)
 
 ## 📰 News
+- **[2026.07]** Academic Editor for *Remote Sensing* SI [Learning-Based RS \\& EO Intelligence](https://www.mdpi.com/journal/remotesensing/special_issues/LBJ4762RLZ)
 - **[2026.05]** [MoE-based RS Object Detection](https://mp.weixin.qq.com/s/L0cA-yNuxfyFmtuQ6NsaxQ) selected as **$\color{red}{\textbf{Cover Article}}$** of *航空学报*
 - **[2026.05]** Paper [H2Crop](https://www.sciencedirect.com/science/article/pii/S0034425726002956) accepted to **RSE**
 - **[2026.01]** Paper [AgriFM](https://arxiv.org/abs/2505.21357) accepted to **RSE**
 - **[2026.01]** Received **$\color{red}{\textbf{Outstanding Doctoral Dissertation}}$** from Beihang University
 - **[2025.12]** 7 papers accepted to **IEEE TGRS** in 2025
 - **[2025.11]** Received **Ph.D. degree** from Beihang University 🎓
+- **[2025.11]** Academic Editor for *Remote Sensing* SI [Multimodal Foundation Models for RS](https://www.mdpi.com/journal/remotesensing/special_issues/GJ86QFO3C4#editors)
 - **[2025.10]** Technical report [Open-CD (Change Detection)](https://dl.acm.org/doi/abs/10.1145/3746027.3756881) accepted to **ACM MM** ✨
 - **[2025.09]** [Survey on Remote Sensing VLMs](https://ieeexplore.ieee.org/abstract/document/11159545) accepted to **IEEE GRSM**
 - **[2025.06]** Invited speaker at **VALSE 2025 Student Forum** ($\color{red}{\textbf{1 of 8 nationwide}}$) 🎤
