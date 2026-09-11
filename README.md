@@ -13,7 +13,9 @@ Personal Pages: [https://kyanchen.github.io](https://kyanchen.github.io) (update
 Google Scholar: [Link](https://scholar.google.com/citations?user=5RF4ia8AAAAJ)
 
 ## 📰 News
-- **[2026.09]** Guest Editor for the *IEEE JSTARS* SI [Multisource and Multimodal Remote Sensing: Representation, Understanding, Reasoning, and Generation](https://www.grss-ieee.org/wp-content/uploads/2026/08/JSTARS_CFP_Multisource_Multimodal_Remote_Sensing.pdf)
+- **[2026.09]** [Google Scholar](https://scholar.google.com/citations?user=5RF4ia8AAAAJ) citations surpassed $\color{red}{\textbf{10,000}}$ 🚀
+- **[2026.09]** Paper [Object Detection in 20 Years: A Survey](https://proceedingsoftheieee.ieee.org/2026-best-paper-award-winner/) won the **2026 Best Paper Award** from *Proceedings of the IEEE* 🏆
+- **[2026.09]** Guest Editor for the *IEEE JSTARS* SI [Multisource and Multimodal Remote Sensing](https://www.grss-ieee.org/wp-content/uploads/2026/08/JSTARS_CFP_Multisource_Multimodal_Remote_Sensing.pdf)
 - **[2026.07]** Received the **CICC Science and Technology Progress Award, First Prize** ($\color{red}{\textbf{First Student Contributor}}$) 🥇
 - **[2026.07]** Paper [HMoE-SR](https://ieeexplore.ieee.org/document/10949132) identified as an $\color{red}{\textbf{ESI Highly Cited Paper}}$
 - **[2026.07]** Paper [RSRefSeg 2](https://ieeexplore.ieee.org/document/11313649) identified as an $\color{red}{\textbf{ESI Highly Cited Paper}}$
