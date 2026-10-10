@@ -4,7 +4,7 @@
 
 I am currently a **Research Fellow** at the College of Computing and Data Science (CCDS), **Nanyang Technological University (NTU)**, working with [Prof. Shijian Lu](https://scholar.google.com/citations?user=uYmK-A0AAAAJ). I obtained my Ph.D., M.S., and B.S. degrees from **Beihang University** in 2025, 2022, and 2019, respectively, under the supervision of [Prof. Zhenwei Shi](https://scholar.google.com/citations?user=kNhFWQIAAAAJ) and [Prof. Zhengxia Zou](https://scholar.google.com/citations?user=DzwoyZsAAAAJ).
 
-My research focuses on **Computer Vision** and **Remote Sensing**, with a particular emphasis on **Foundation Models**, **Multimodal Learning**, and **AI4Earth**. To date, I have published over 40 papers in top-tier venues (e.g., *Proc. IEEE, TPAMI, GRSM, TGRS, CVPR*), including **6 ESI Hot Papers** and **14 ESI Highly Cited Papers**, accumulating over **10,000 citations** on [Google Scholar](https://scholar.google.com/citations?user=5RF4ia8AAAAJ).
+My research focuses on **Computer Vision** and **Remote Sensing**, with a particular emphasis on **Foundation Models**, **Multimodal Learning**, and **AI4Earth**. To date, I have published over 40 papers in top-tier venues (e.g., *Proc. IEEE, TPAMI, GRSM, TGRS, CVPR*), including **6 ESI Hot Papers** and **15 ESI Highly Cited Papers**, accumulating over **10,000 citations** on [Google Scholar](https://scholar.google.com/citations?user=5RF4ia8AAAAJ).
 
 I am highly motivated to foster academic/industrial collaborations, scientific exchanges, and internship opportunities. If you are interested in my research, collaboration, or internships, please feel free to contact me.
 
@@ -13,6 +13,7 @@ Personal Pages: [https://kyanchen.github.io](https://kyanchen.github.io) (update
 Google Scholar: [Link](https://scholar.google.com/citations?user=5RF4ia8AAAAJ)
 
 ## 📰 News
+- **[2026.10]** Named to Stanford University's **2026 World's Top 2% Scientists List**
 - **[2026.09]** [Google Scholar](https://scholar.google.com/citations?user=5RF4ia8AAAAJ) citations surpassed $\color{red}{\textbf{10,000}}$ 🚀
 - **[2026.09]** Paper [Object Detection in 20 Years: A Survey](https://proceedingsoftheieee.ieee.org/2026-best-paper-award-winner/) won the **2026 Best Paper Award** from *Proceedings of the IEEE* 🏆
 - **[2026.09]** Guest Editor for the *IEEE JSTARS* SI [Multisource and Multimodal Remote Sensing](https://www.grss-ieee.org/wp-content/uploads/2026/08/JSTARS_CFP_Multisource_Multimodal_Remote_Sensing.pdf)
